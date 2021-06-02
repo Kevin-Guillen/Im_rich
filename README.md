@@ -1,6 +1,6 @@
 # im_rich
 
-A new Flutter project.
+I'm Rich Onboarding flutter project.
 
 ## Getting Started
 
