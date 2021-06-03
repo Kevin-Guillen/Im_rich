@@ -2,6 +2,8 @@
 
 I'm Rich Onboarding flutter project.
 
+<img width="227" alt="imrich" src="https://user-images.githubusercontent.com/84336422/120649371-0f1fbd00-c453-11eb-9c0b-15f1bc282a25.png">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
